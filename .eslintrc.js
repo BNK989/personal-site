@@ -40,6 +40,5 @@ module.exports = {
       declaration: true,
       return: true,
     }],
-    requireConfigFile: false,
   },
 };
