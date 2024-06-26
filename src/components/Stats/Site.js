@@ -1,4 +1,5 @@
 import React, { useState, useCallback, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 
 import Table from './Table';
 import initialData from '../../data/stats/site';
@@ -28,8 +29,14 @@ const Stats = () => {
   }, [fetchData]);
 
   return (
-    <div>
+    <div className="statsContent">
       <h3>Some stats about this site</h3>
+      <h4>This site is hosted on Render.com</h4>
+      <p>With grate thanks to Michael D&apos;Angelo who made this site
+        available. so I can spend more time on my <Link to="/projects">✨projects✨</Link>.
+      </p>
+
+      <h3>Stats about the original repository</h3>
       <Table data={data} />
     </div>
   );

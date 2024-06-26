@@ -11,3 +11,14 @@
 		-ms-flex: 1;
 		width: 100%;
 	}
+
+	.cta-btns {
+		display: flex;
+		justify-content: space-between;
+		.cta-btn {
+			background: linear-gradient(35deg, #c4cbf3, #33fddb, #d1d7f7);
+			width: 45%;
+			font-size: large;
+			font-weight: bold;
+		}
+	}

@@ -5,3 +5,12 @@
     width: 100%;
   }
 }
+
+.statsContent{
+p{
+  width: 60%;
+  &::first-letter{
+    font-size: 1.5em;
+  }
+}
+}

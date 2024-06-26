@@ -25,6 +25,15 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
+      <div className="cta-btns">
+        <button type="button" className="cta-btn">
+          <Link to="/resume">Get My Resume</Link>
+        </button>
+        <button type="button" className="cta-btn">
+          <Link to="/projects">View My projects</Link>
+        </button>
+
+      </div>
     </article>
   </Main>
 );
