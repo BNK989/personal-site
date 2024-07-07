@@ -1,15 +1,18 @@
 const data = [
+
   {
-    title: 'Fiverr Clone',
-    subtitle: 'Final project for a full stack web development course at Coding Academy.',
-    image: '/images/projects/Fiverr-proj.png',
-    link: 'https://fiveerr.onrender.com/',
-    date: '2024-05-20',
+    title: 'Shopify Custom Theme',
+    subtitle: 'A powerful custom theme for Shopify with build in useful marketing features. **Still under development',
+    image: '/images/projects/shopifyStore.png',
+    link: 'https://bnkdevstore.myshopify.com/',
+    date: '2024-06-31',
     desc:
-      'Build a fully functional Fiverr Clone.'
-      + 'Work in a team of 3 coordinating all the frontend and backend work, '
-      + 'introduction to Tailwind CSS and ShanCN library for effecting styling. '
-      + 'whole project under 2 weeks with code reviews every 2-3 days.',
+      'Based on Shopify "Taste" theme.'
+      + 'This is a demo store: use password: "GetSass" to view it'
+      + 'Made with marketing necessities in mind -keeping the store simple and highly customable.'
+      + 'Some "Apps" are baked in -customize your product badges and offer exclusive offers using the build-in banner.'
+      + 'Check out the full project repository at GitHub.'
+      + 'Combining Tailwind CSS with build in components for a modern and beautiful design.',
   },
   {
     title: 'Firebase Chat App',
@@ -23,6 +26,18 @@ const data = [
       + 'Used Tailwind CSS to make the site beautiful (if you don\'t mind me saying...).'
       + 'support for uploading and sharing images with Firebase Storage.'
       + 'started from a youtube tutorial and improved on that, made it mobile first and responsive.',
+  },
+  {
+    title: 'Fiverr Clone',
+    subtitle: 'Final project for a full stack web development course at Coding Academy.',
+    image: '/images/projects/Fiverr-proj.png',
+    link: 'https://fiveerr.onrender.com/',
+    date: '2024-05-20',
+    desc:
+      'Build a fully functional Fiverr Clone.'
+      + 'Work in a team of 3 coordinating all the frontend and backend work, '
+      + 'introduction to Tailwind CSS and ShanCN library for effecting styling. '
+      + 'whole project under 2 weeks with code reviews every 2-3 days.',
   },
   {
     title: 'Supabase Chat-Game',
