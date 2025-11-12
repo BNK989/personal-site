@@ -1,5 +1,18 @@
 const data = [
-
+  {
+    title: 'Chrome Extension for Shopify Store Owners',
+    subtitle: 'A quick to install powerful chrome extension for Shopify store owners to quickly view important info from both side of their store.',
+    image: '/images/projects/ShopifyExpanderDemo.png',
+    link: 'https://chromewebstore.google.com/detail/shopify-admin-json-fields/ckookbfbdgchdcckbbfaepbgcclblhih',
+    date: '2025-07-25',
+    desc:
+      'From the ground up via free vibe-coding apps.'
+      + 'Show additional important fields in the Shopify admin panel for store owners and developers.'
+      + 'Only view what you need.'
+      + 'Used in as many or as little stores as you need.'
+      + 'Public on github.'
+      + 'Works on any Shopify store - loved by CS teams.',
+  },
   {
     title: 'Shopify Custom Theme',
     subtitle: 'A powerful custom theme for Shopify with build in useful marketing features. **Still under development',
