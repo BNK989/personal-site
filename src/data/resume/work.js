@@ -23,7 +23,7 @@ const work = [
       'Taxonomy system development - allow users to easily (AI-aided) upload and find products.',
       'End to end product strategy - C2C shopping and business ads increase revenue by ₪10K/month.',
       'Managing tickets and Documentation using Atlassian tools, Jira & Confluence.',
-      'Creating custom users’ journeys to increase seekers seller engagements 7% lift in communications.'
+      'Creating custom users’ journeys to increase seekers seller engagements 7% lift in communications.',
     ],
   },
   {
@@ -36,7 +36,7 @@ const work = [
     highlights: [
       'Built a custom user UI for product customization.',
       'Unified 3 sites (WooCommerce & Shopify) into a single system.',
-      'Improved analytics and marketing events management.'
+      'Improved analytics and marketing events management.',
     ],
   },
   {

@@ -1,6 +1,6 @@
 # Intro
 
-I am a Full stack web developer coming from the world of Product management and Marketing. I've been working in this field for the past 6 years and was drown to the world of programming and web design as I was working with several other dev teams and thought 'I can do that'. I've taken some time to learn the whole basics of Javascript and the top libraries as well as Liquid (Shopify) as that is where I originally discovered my passion and ability to code.
+Hi, Ben here, a Product Manager who drives growth in E-commerce by blending technical skill with a deep understanding of the user journey. With 6+ years of experience, and coming from a background of marketing and ecommerce I excel at owning the product lifecycle to ship solutions that work. I've led complex integrations with partners like Nordstrom, launched AI-aided features to lift user engagement, and used data-driven A/B testing to increase conversions by 15% and cart size by 30%.
 
 # Some history
 
@@ -12,7 +12,7 @@ I am a Full stack web developer coming from the world of Product management and 
 
 # I dream of
 
-- Amazing projects of both tech and hobbie in nature.
+- Amazing projects of both tech and hobbies in nature.
 - Cool Crochet art that has a clear guide I can give a go to.
 - Traveling and meeting new people
 - Staying curious.
