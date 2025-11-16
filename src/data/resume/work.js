@@ -13,36 +13,38 @@
  */
 const work = [
   {
-    name: 'UB Nanosatellite Program',
-    position: 'Co-founder, Program Manager',
-    url: 'https://ubnl.space/',
-    startDate: '2010-10-01',
-    endDate: '2012-06-01',
+    name: 'Yad2 Recommerce',
+    position: 'Shopify Tech Product Manager',
+    url: 'https://yad2.co.il/market/',
+    startDate: '2023-09-31',
+    endDate: '2025-12-01',
+    summary: 'Developed a C2C experience with AI-aided taxonomy system for product uploading and searching, leading to a 10K monthly revenue increase from C2C shopping and business ads.',
     highlights: [
-      'Coauthored grant to build a multi-spectral imaging satellite as part of the AFRL University Nanosatellite Program.',
-      'Lead a team of 60 students through satellite development life cycle. Served as a technical expert, acquired intimate working knowledge of satellite subsystems.  Solicited funding through NASA, AFOSR, and several corporate sponsors.',
+      'Taxonomy system development - allow users to easily (AI-aided) upload and find products.',
+      'End to end product strategy - C2C shopping and business ads increase revenue by ₪10K/month.',
+      'Managing tickets and Documentation using Atlassian tools, Jira & Confluence.',
+      'Creating custom users’ journeys to increase seekers seller engagements 7% lift in communications.'
     ],
   },
   {
     name: 'Adita Jewelry',
-    position: 'Product Manager & Sites Development',
-    url: 'https://aditagold.co.il',
-    startDate: '2023-02-01',
-    endDate: '2023-12-31',
-    summary: 'Build a custom user UI to add product customization (self-taught). Unified 3 sites (WooCommerce & Shopify) into a unified system, improving operational efficiency. Managed marketing events and analysis, boosting distribution by 15%. Oversaw multiple brands: local men and women, and a global US-focused site.',
+    position: 'Site Unification and Organization',
+    url: 'https://aditagold.com',
+    startDate: '2023-04-01',
+    endDate: '2023-09-31',
+    summary: 'Unified 3 sites (WooCommerce & Shopify) into a unified system, improving operational efficiency. Managed marketing events and analysis, boosting distribution by 15%. Oversaw multiple brands: local men and women, and a global US-focused site.',
     highlights: [
       'Built a custom user UI for product customization.',
       'Unified 3 sites (WooCommerce & Shopify) into a single system.',
-      'Boosted distribution by 15% through marketing events and analysis.',
-      'Oversaw multiple brands, including local and global sites.',
+      'Improved analytics and marketing events management.'
     ],
   },
   {
     name: 'Edikted Fashion',
     position: 'E-commerce Site Manager',
     url: 'https://edikted.com',
-    startDate: '2021-08-01',
-    endDate: '2023-01-31',
+    startDate: '2022-09-01',
+    endDate: '2023-03-31',
     summary: 'Managing Theme updates and version developments. Site development including cross-sale items component and product page upgrades. B2B Partners communications and integration - supported Nordstrom integrations. Inventory and distribution center communications - reduced US delivery time by avg 3 days.',
     highlights: [
       'Managed theme updates and version developments.',
@@ -55,8 +57,8 @@ const work = [
     name: 'Goodlife',
     position: 'E-commerce Product Manager',
     url: 'https://goodlife.co.il',
-    startDate: '2020-03-01',
-    endDate: '2023-01-30',
+    startDate: '2021-03-01',
+    endDate: '2022-08-30',
     summary: 'Managing brand launch - coordinating with both physical and digital campaigns. Technical Magento 2.0 site setup, heading the theme development plus all connected assets. Process building and optimizations - initializing product management and processes.',
     highlights: [
       'Set up Magento 2.0 site, including theme development and connected assets.',
@@ -69,7 +71,7 @@ const work = [
     position: 'E-commerce Site Manager',
     url: 'https://ubnl.space/',
     startDate: '2018-05-01',
-    endDate: '2023-01-01',
+    endDate: '2021-03-01',
     summary: 'Products page management, competitors inspections, and introduction to Magento 2.0. Later on site management, theme updates, campaign handling, and APIs with internal systems.',
     highlights: [
       'Managed product pages and conducted competitor inspections.',
